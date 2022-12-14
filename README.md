@@ -1,6 +1,6 @@
 ## F. Ahamed Nirob
 Hi there, I'm Nirob.
-I am an undergraduate student of Computer Science student at American International University-Bangladesh (AIUB). 
+I am an undergraduate student of Computer Science at American International University-Bangladesh (AIUB). 
 
 <p align="center">
 <a href="mailto:neeerob.ahmed@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-neeerob.ahmed@gmail.com-red?style=flat&logo=gmail"></a>
