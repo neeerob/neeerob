@@ -1,16 +1,20 @@
-### Hi there 👋
+## F. Ahamed Nirob
+Hi there, I'm Nirob.
+I am an undergraduate student of Computer Science student at American International University-Bangladesh (AIUB). 
 
-<!--
-**neeerob/neeerob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="mailto:neeerob.ahmed@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-neeerob.ahmed@gmail.com-red?style=flat&logo=gmail"></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=neeerob&show_icons=true&theme=dark"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeerob&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
