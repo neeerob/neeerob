@@ -43,5 +43,16 @@ const languages = ['TypeScript', 'JavaScript', 'Python', 'C++', 'Java'];
 ---
 
 <p align="center">
+   <table>
+      <tr>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeerob&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
