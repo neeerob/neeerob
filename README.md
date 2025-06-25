@@ -3,12 +3,12 @@
 <h1 align="center">F. Ahamed Nirob</h1>
 
 <p align="center">
-  <i>Software Engineer | Backend Wizard | GovTech & EMR Systems Architect | AI & Blockchain Enthusiast</i>
+  <i>Software Engineer | Backend Specialist | GovTech & EMR Systems Architect | AI & Blockchain Enthusiast</i>
 </p>
 
 <p align="center">
   <a href="mailto:neeerob.ahmed@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-neeerob.ahmed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-neeerob.ahmed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -27,32 +27,21 @@ interests:
   - DevOps & Security
 ```
 
-- 🏥 Built **Pet-A-Med EMR**, powering clinics in Canada
-- 🏛️ Engineered DNCRP complaint system — serving 60+ govt. offices
-- 📄 Published in **IEEE Access** & **JAIDA** (Blockchain & ML)
-- 🏆 Finalist — Blockchain Olympiad (Top 1%)
+- 🏥 Core developer of **Pet-A-Med EMR**, powering clinics in Canada
+- 🏛️ Built **DNCRP** complaint system — active in 60+ government offices
+- 📄 Researcher published in **IEEE Access** & **JAIDA**
+- 🏆 Top 1% Finalist — Blockchain Olympiad (Academiachain)
 
 ---
 
-### 💻 Languages I Use
-
-```ts
-const languages = ['TypeScript', 'JavaScript', 'Python', 'C++', 'Java'];
-```
-
----
+### 💻 Language Contributions
 
 <p align="center">
-   <table>
-      <tr>
-       <th>Language Contribution</th>
-     </tr>
-      <tr>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeerob&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
-     </tr>
-   </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeerob&langs_count=10&theme=tokyonight&layout=compact&hide=html" alt="Language Stats" width="60%">
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
 </p>
