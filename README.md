@@ -12,7 +12,7 @@
   <a href="mailto:neeerob.ahmed@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-neeerob.ahmed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/neeerob">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
