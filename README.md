@@ -11,7 +11,7 @@
 ### 🧠 About Me
 
 ```yaml
-name: Foysal Ahamed Nirob
+name: F. Ahamed Nirob
 role: Software Engineer (Full-Stack, Backend-Heavy)
 education: CSE Graduate
 location: Narayanganj, Bangladesh
