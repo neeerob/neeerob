@@ -30,7 +30,7 @@ interests:
 ### 🚀 Professional Highlights
 
 - 🏥 **Core Developer** of **Pet-A-Med EMR** — Revolutionizing veterinary clinic management across Canada
-- 🏛️ **Lead Architect** of **DNCRP** complaint management system — Deployed in 60+ government offices
+- 🏛️ **Core Developer** of **DNCRP** complaint management system — Deployed in 60+ government offices
 - 📄 **Published Researcher** in **IEEE Access** & **JAIDA** — Contributing to academic knowledge
 - 🏆 **Top 1% Finalist** — Blockchain Olympiad by Academiachain
 - 💡 **Full-Stack Engineer** with expertise in scalable backend systems and modern web technologies
