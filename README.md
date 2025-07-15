@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 ```yaml
 name: F. Ahamed Nirob
@@ -27,7 +27,7 @@ interests:
   - System Design & Scalability
 ```
 
-### 🚀 Professional Highlights
+### Professional Highlights
 
 - 🏥 **Core Developer** of **Pet-A-Med EMR** — Revolutionizing veterinary clinic management across Canada
 - 🏛️ **Core Developer** of **DNCRP** complaint management system — Deployed in 100+ government offices
